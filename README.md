@@ -1,7 +1,6 @@
 # RECORD: Simulation Study for Latent Class Mixed Models
-REvisiting analysis of Composite Outcomes: Recommendations for latent variable modeling in rheumatic and musculoskeletal Diseases (RECORD).
- 
-This repository contains code for a simulation study and application analyses evaluating treatment effects on composite outcomes using multivariate latent class mixed models (LCMMs) in rheumatic and musculoskeletal diseases (RMD).
+
+This repository contains code for a simulation study and application analyses evaluating treatment effects on composite outcomes for disease activity using multivariate latent class mixed models (LCMMs) in rheumatic and musculoskeletal diseases (RMD).
  
 ## Overview
  
@@ -13,7 +12,6 @@ The objectives of this project are to:
 - Apply the optimal modeling strategy to clinical trial data in RMD research.
  
 ## Repository Structure
- 
 ```text
 RECORD/
 │
@@ -39,18 +37,8 @@ RECORD/
 └── README.md
 ```
  
-## Simulation Workflow
+## Authors
  
-```text
-Generate data
-↓
-Fit latent class mixed model
-↓
-Extract estimands
-↓
-Calculate performance measures
-↓
-Summarise results
-↓
-Create tables and figures
-```
+**Kaya Miah**
+Julius Center for Health Sciences and Primary Care
+University Medical Center Utrecht
