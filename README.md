@@ -10,7 +10,13 @@ The objectives of this project are to:
 - Assess estimation of treatment-related effects on a latent outcome process.
 - Quantify performance measures such as bias, type I error, and power.
 - Apply the optimal modeling strategy to clinical trial data in RMD research.
+
+## Simulation Design
  
+### `ADEMP_PreReg_RECORD_2026.pdf`
+ 
+Preregistered statistical simulation plan describing the design of the simulation study according to the ADEMP framework (Aims, Data-Generating Mechanisms, Estimands, Methods, and Performance Measures). 
+ 
 ## Repository Structure
 ```text
 RECORD/
@@ -30,6 +36,7 @@ RECORD/
 │ ├── tables/
 │ └── simulations/
 │
+├── ADEMP_PreReg_RECORD_2026.pdf
 ├── renv/
 ├── renv.lock
 ├── .gitignore
@@ -40,5 +47,6 @@ RECORD/
 ## Authors
  
 **Kaya Miah**
-Julius Center for Health Sciences and Primary Care
+
+Julius Center for Health Sciences and Primary Care,
 University Medical Center Utrecht
