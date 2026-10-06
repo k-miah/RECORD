@@ -8,11 +8,10 @@ The objectives of this research project are to:
  
 - Evaluate the performance of latent class mixed models under various data-generating scenarios.
 - Assess estimation of treatment-related effects on a latent outcome process.
-- Quantify performance measures such as bias, type I error, and power.
+- Evaluate performance measures such as bias, type I error, and power.
 - Apply the optimal modeling strategy to clinical trial data in RMD research.
 
 ## Simulation Design
- 
 - `ADEMP_PreReg_RECORD_2026.pdf`:
  
 This document specifies the preregistered statistical simulation plan describing the design of the simulation study according to the ADEMP framework (Aims, Data-Generating Mechanisms, Estimands, Methods, and Performance Measures). 
