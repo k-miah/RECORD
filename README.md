@@ -14,7 +14,7 @@ The objectives of this research project are to:
 ## Simulation Design
 - `ADEMP_PreReg_RECORD_2026.pdf`:
  
-This document specifies the preregistered statistical simulation plan describing the design of the simulation study according to the ADEMP (Aims, Data-Generating Mechanisms, Estimands, Methods, and Performance Measures) framework [(Morris et al., 2019)](https://doi.org/10.1002/sim.8086), based on the template by [Siepe et al. (2024)](https://github.com/bsiepe/ADEMP-PreReg).
+This document specifies the preregistered statistical simulation plan describing the design of the simulation study according to the ADEMP (Aims, Data-Generating Mechanisms, Estimands, Methods, and Performance Measures) framework by [Morris et al. (2019)](https://doi.org/10.1002/sim.8086), based on the template by [Siepe et al. (2024)](https://github.com/bsiepe/ADEMP-PreReg).
  
 ## Repository Structure
 ```text
