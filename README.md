@@ -22,19 +22,15 @@ RECORD/
 │
 ├── R/
 │ ├── generate_data.R
-│ ├── fit_multlcmm.R
-│ ├── evaluate_results.R
-│ └── helper_functions.R
+│ └── fit_models.R
 │
-├── scripts/
-│ ├── 01_Simulations_lcmm.R
-│ └── 02_Application_RA-trial.R
+├── simulation/
+│ ├── sim_setting1.R
+│ └── results/
 │
-├── results/
-│ ├── figures/
-│ ├── tables/
-│ └── simulations/
-│
+├── application/
+│ └── 01_Application_RA-trial.R
+|
 ├── ADEMP_PreReg_RECORD_2026.pdf
 ├── renv/
 ├── renv.lock
