@@ -31,7 +31,6 @@ RECORD/
 ├── ADEMP_PreReg_RECORD_2026.pdf
 ├── renv/
 ├── renv.lock
-├── .gitignore
 ├── RECORD.Rproj
 └── README.md
 ```
