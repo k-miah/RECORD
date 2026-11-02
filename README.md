@@ -1,4 +1,4 @@
-# RECORD: Simulation Study for Latent Class Mixed Models
+# RECORD: Simulation Study for Latent Mixed Models
 
 This repository contains code for a simulation study evaluating treatment effects on composite outcomes for disease activity using multivariate latent mixed models in rheumatic and musculoskeletal diseases (RMD).
  
