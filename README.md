@@ -26,6 +26,8 @@ RECORD/
 │
 ├── simulation/
 │ ├── sim_setting1.R
+│ ├── sim_setting2.R
+│ ├── sim_setting3.R
 │ └── results/
 |
 ├── ADEMP_PreReg_RECORD_2026.pdf
